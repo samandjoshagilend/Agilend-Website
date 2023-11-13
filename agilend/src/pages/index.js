@@ -6,6 +6,7 @@ const IndexPage = () => {
       <div>
         <h1>Agilend</h1>
         <h2>A startup for AI.</h2>
+        <h3>By Sam and Josh :) ❤️</h3>
       </div>
       <footer>
         <div>info@agilend.net</div>
